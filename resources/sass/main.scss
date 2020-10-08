@@ -1,0 +1,49 @@
+.navbar{
+    font: nunito;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 14px 16px;
+    margin:0;
+    font-size:14px;
+ 
+  }
+  .blogColor{
+    background-color: rgb(37, 157, 212);
+    border-radius: 10px ;
+  }
+  .hero-1{background:url('/img/hero-home-01.png');
+    background-size: 1400px 900px;}
+  .text-mk{
+    font-weight: 900;
+    margin-bottom: 200px;
+  }
+  .text-mk2{
+    font-weight: 900;
+ 
+  }
+  .imgSalame{
+    width: 100px;
+    height: 100px;
+  }
+  .imageCeo{
+    width: 500px;
+    height: 500px;
+  }
+  .heroh{
+    margin: 0;
+    height: 500px;
+  }
+ 
+  .lala{
+    padding: 20px;
+  }
+  
+  body{
+      margin: 0px;
+  
+  }
+  
+  a{   color: black;
+      text-decoration: none;
+  }
